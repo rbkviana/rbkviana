@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**rbkviana/rbkviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨  Olá! Eu sou a **Rebeca Viana**, entusiasta da tecnologia e apaixonada por criar experiências digitais.
 
-Here are some ideas to get you started:
+<p>💻 Atualmente estudo <strong>desenvolvimento front-end</strong>, construindo projetos com HTML, CSS e JavaScript.<p/>
+<p>🚀 Meu grande objetivo é evoluir para o <strong>desenvolvimento fullstack</strong> e expandir minhas habilidades para o back-end.<p/>
+<p>📚 Sou movida pela curiosidade e pelo aprendizado contínuo — estou sempre explorando novas ferramentas, conceitos e desafios do universo tech.<p/>
+<p>🔗Conecte-se comigo no <a href="https://www.linkedin.com/in/rbkviana">LinkedIn<a/><p/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<br/>
+<br/>
+<br/>
+
+[![RBK's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbkviana)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbkviana)](https://github.com/anuraghazra/github-readme-stats)
