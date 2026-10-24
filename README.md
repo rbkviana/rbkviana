@@ -1,13 +1,23 @@
-## Hi there 👋
+  ## Hi there 👋
 
-✨  Olá! Eu sou a **Rebeca Viana**, entusiasta da tecnologia e apaixonada por criar experiências digitais.
+✨ Olá! Eu sou a Rebeca Viana!
 
-<p>💻 Atualmente estudo <strong>desenvolvimento front-end</strong>, construindo projetos com HTML, CSS e JavaScript.<p/>
-<p>🚀 Meu grande objetivo é evoluir para o <strong>desenvolvimento fullstack</strong> e expandir minhas habilidades para o back-end.<p/>
-<p>📚 Sou movida pela curiosidade e pelo aprendizado contínuo — estou sempre explorando novas ferramentas, conceitos e desafios do universo tech.<p/>
-<p>🔗Conecte-se comigo no <a href="https://www.linkedin.com/in/rbkviana">LinkedIn<a/><p/>
+<br/>
 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+💻 Desenvolvimento Web & Tecnologia da Informação
+🌐 HTML • CSS • JavaScript • React • Node.js • Git • GitHub
+🚀 Em constante evolução e aprendizado
 
+<p>💻 Atualmente estudo e desenvolvo projetos na área de <strong>desenvolvimento web</strong>, aprimorando meus conhecimentos em HTML, CSS, JavaScript e tecnologias do ecossistema web.</p>
+
+<p>🎯 Meu objetivo é construir uma carreira em tecnologia, evoluindo gradualmente para o <strong>desenvolvimento fullstack</strong> e ampliando meus conhecimentos em back-end, APIs, bancos de dados e outras tecnologias.</p>
+
+<p>📚 Acredito no aprendizado contínuo e estou sempre buscando desenvolver novas habilidades, explorar ferramentas e transformar conhecimentos em projetos práticos.</p>
+
+<p>🛠️ Atualmente venho estudando conceitos de <strong>JavaScript, React, Node.js, APIs REST, bancos de dados e Git/GitHub</strong>.</p>
+
+<p>🔗 Conecte-se comigo no <a href="https://www.linkedin.com/in/rbkviana">LinkedIn</a></p>
 
 <br/>
 <br/>
